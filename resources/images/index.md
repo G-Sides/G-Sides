@@ -2,9 +2,8 @@
 
 this readme... or index is for crediting and origin piece of media of every pictures that exists in the main readme.md
 
-eh excuse the pun 
 <div align="right">
-  bloody hell. <sub><sup>bad</sup></sub>, <a href="http://bad.co.uk">bad</a>, <sub><sup>pun</sup></sub>...
+  eh excuse the pun bloody hell. <sub><sup>bad</sup></sub>, <a href="http://bad.co.uk">bad</a>, <sub><sup>pun</sup></sub>...
 </div>
 
 ___
