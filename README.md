@@ -5,14 +5,22 @@
     your big boy of gorillaz fan bozo exiting
 -->
 <!-- main markdown -->
+work in progress
 <div align="center">
     <img src="resources/images/geepers.webp" />
-</div>
-<div align="center">
-    <kbd>
-        <img width="400" src="resources/images/geep.webp" align="right" />
-    </kbd>
-</div>
-<div align="center">
-    <a href="resources/images/index.md">resources credits</a>
+    <br>
+    <table align="right">
+        <tr>
+            <td>
+                <img src="resources/images/green_effects.gif" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img width="400" src="resources/images/geep.webp" align="right" />
+            </td>
+        </tr>
+    </table>
+    <br>
+    <img src="resources/images/geepers.webp" />
 </div>
