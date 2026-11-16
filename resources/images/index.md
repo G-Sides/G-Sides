@@ -23,5 +23,7 @@ ___
 
 used assets:
 - geep (.webp)
+- geepers (.webp)
+- geep_banner (.webp)
 - bonesy_gz (.webp)
 - parental_advisory (.webp) ~ https://commons.wikimedia.org/wiki/File:Parental_Advisory_label.svg
