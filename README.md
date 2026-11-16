@@ -8,9 +8,11 @@
 work in progress
 <div align="center">
     <kbd>
+        　　　　　　　　　
         <img width="140" src="resources/images/parental_advisory.webp" align="left" />
         　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
         <img width="90" src="resources/images/bonesy_gz.webp" align="right" />
+        　　　　　　　　　
     </kbd>
 </div>
 <div align="center">
