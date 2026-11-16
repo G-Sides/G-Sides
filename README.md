@@ -45,5 +45,37 @@ work in progress
 <div align="center">
     <br>
     <br>
+    this is work in progress
+    <br>
+    ${\color{#4e7930}{\textsf{test}}}$
+    <details>
+        <summary>
+            Prettiest Skin(s)
+        </summary>
+        placeholder
+    </details>
+    <details>
+        <summary>
+            Prettiest GitHub/Profile README(s)
+        </summary>
+        placeholder
+    </details>
+    <details>
+        <summary>
+            Common by-dock people
+        </summary>
+        placeholder
+    </details>
+    <details>
+        <summary>
+            Always/often online people
+        </summary>
+        placeholder
+    </details>
+    <details>
+        <summary>
+            Character nomination/award
+        </summary>
+        placeholder
+    </details>
 </div>
-${\color{#4e7930}{\textsf{ test }}}$
