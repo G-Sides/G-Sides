@@ -49,7 +49,8 @@ work in progress
 </div>
 <!-- miscellaneous ~ alternative markdown -->
 <br>
-github has a username fatigueness where it wont allow you to name your repository after your username if it was previously owned by somebody, due to this, i wont be able to name this repository after my username; meaning i must choose a complete different name
+github has a username fatigueness where it wont allow you to name your repository after your username if it was previously owned by somebody, due to this, i wont be able to name this repository after my username; meaning i must choose a complete different username (extra: i couldnt reach github support due to "rate limited" on second attempt, this is a security fatigueness; i never get informed youre never supposed to put stripes together with it)
+<br>
 <img width="400" src="https://github.com/user-attachments/assets/2134441f-b59f-4f9e-8370-3e93aaa28a7d" />
 <br>
 psa: i do not know who else had owned the same username before i did and they changed
