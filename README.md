@@ -29,7 +29,7 @@ work in progress
         <tr>
             <td>
                 <a href="https://en.wikipedia.org/wiki/Gorillaz_(album)">
-                    <img width="350" src="resources/images/geep.webp" align="right" />
+                    <img width="350" src="resources/images/geep.webp" title="Gorillaz (Self Titled)" align="right" />
                 </a>
             </td>
         </tr>
