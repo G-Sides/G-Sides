@@ -7,20 +7,22 @@
 <!-- main markdown -->
 work in progress
 <div align="center">
-    <img src="resources/images/geepers.webp" />
+    <img src="resources/images/green_effects.webp" />
     <br>
     <table align="right">
         <tr>
             <td>
-                <img width="400" src="resources/images/green_effects.gif" />
+                <div align="center">
+                    <img width="380" src="resources/images/geepers.webp" />
+                </div>
             </td>
         </tr>
         <tr>
             <td>
-                <img width="400" src="resources/images/geep.webp" align="right" />
+                <img width="350" src="resources/images/geep.webp" align="right" />
             </td>
         </tr>
     </table>
     <br>
-    <img src="resources/images/geepers.webp" />
+    <img src="resources/images/green_effects.webp" />
 </div>
