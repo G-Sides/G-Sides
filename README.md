@@ -47,33 +47,5 @@ work in progress
     <br>
     ${\color{#547529}{\textsf{placeholder placeholder placeholder placeholder}}}$
     <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
-    placeholder placeholder placeholder placeholder
-    <br>
     <br>
 </div>
