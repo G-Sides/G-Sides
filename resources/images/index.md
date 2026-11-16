@@ -1,8 +1,11 @@
-hi mate
+<h3>hi mate</h3>
 
 this readme... or index is for crediting and origin piece of media of every pictures that exists in the main readme.md
 
-eh bloody hell. bad, bad, pun...
+eh excuse the pun 
+<div align="right">
+  bloody hell. <sub><sup>bad</sup></sub>, bad, <sub><sup>pun</sup></sub>...
+</div>
 
 ___
 
@@ -23,7 +26,7 @@ no
 the layout revolves around <a href="https://github.com/68state/68state/blob/main/thirdprevious_README.md">one of my previous readme layout that i used previously</a> and <a href="https://github.com/68state/68state">my current one</a>
 <br>
 <br>
-the difference is just that... theyr emixed
+the difference is just that... i mix them together
 
 <br>
 
