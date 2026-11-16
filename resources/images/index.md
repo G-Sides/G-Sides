@@ -40,5 +40,9 @@ used assets:
 - bonesy_gz (.webp)
 - parental_advisory (.webp) ~ https://commons.wikimedia.org/wiki/File:Parental_Advisory_label.svg
 
+<div align="right">
+  JUST TOO MUCH GEEP BEEP REEK
+</div>
+
 yours
 <br> el Murdoc
