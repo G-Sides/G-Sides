@@ -6,5 +6,8 @@
 -->
 <!-- main markdown -->
 <div align="center">
-  <img src="resources/images/winnebago.gif" align="right" />
+  <img width="400" src="resources/images/geep.webp" align="right" />
+</div>
+<div align="center">
+    <a href="resources/images/index.md">resources credits</a>
 </div>
