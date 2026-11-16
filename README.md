@@ -45,6 +45,5 @@ work in progress
 <div align="center">
     <br>
     <br>
-    ${\color{#4e7930}{\textsf{the text isnt rendering, no clue why is that}}}$
 </div>
-${\color{#4e7930}{\textsf{test}}}$
+${\color{#4e7930}{\textsf{ test }}}$
