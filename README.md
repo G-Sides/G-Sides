@@ -47,10 +47,4 @@ work in progress
     <br>
     ${\color{#4e7930}{\textsf{the text isnt rendering, no clue why is that}}}$
 </div>
-<!-- miscellaneous ~ alternative markdown -->
-<br>
-github has a username fatigueness where it wont allow you to name your repository after your username if it was previously owned by somebody, due to this, i wont be able to name this repository "19-2OOO"; meaning i must choose a complete different username (extra: i couldnt reach github support due to "rate limited" on second attempt, this is a security fatigueness; i never get informed youre never supposed to put stripes together with it)
-<br>
-<img width="400" src="https://github.com/user-attachments/assets/2134441f-b59f-4f9e-8370-3e93aaa28a7d" />
-<br>
-psa: i do not know who else had owned the same username before i did and they changed
+${\color{#4e7930}{\textsf{test}}}$
