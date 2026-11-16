@@ -6,5 +6,5 @@
 -->
 <!-- main markdown -->
 <div align="center">
-  placeholder
+  <img src="resources/images/winnebago.gif" align="right" />
 </div>
