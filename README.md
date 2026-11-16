@@ -6,7 +6,12 @@
 -->
 <!-- main markdown -->
 <div align="center">
-  <img width="400" src="resources/images/geep.webp" align="right" />
+    <img src="resources/images/geepers.webp" />
+</div>
+<div align="center">
+    <kbd>
+        <img width="400" src="resources/images/geep.webp" align="right" />
+    </kbd>
 </div>
 <div align="center">
     <a href="resources/images/index.md">resources credits</a>
