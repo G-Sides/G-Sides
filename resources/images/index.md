@@ -4,7 +4,7 @@ this readme... or index is for crediting and origin piece of media of every pict
 
 eh bloody hell. bad, bad, pun...
 
-----------------------------------------------------------------
+___
 
 faq:
 <br>
@@ -31,7 +31,7 @@ the difference is just that... theyr emixed
 <br>
 some origin medias is too complex to explain and is sometimes vague
 
-----------------------------------------------------------------
+___
 
 used assets:
 - geep (.webp)
