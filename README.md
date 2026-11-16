@@ -7,8 +7,13 @@
 <!-- main markdown -->
 work in progress
 <div align="center">
-    placeholder
-    <br>
+    <kbd>
+        <img width="140" src="resources/images/parental_advisory.webp" align="left" />
+        　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+        <img width="90" src="resources/images/bonesy_gz.webp" align="right" />
+    </kbd>
+</div>
+<div align="center">
     <table align="right">
         <tr>
             <td>
@@ -25,4 +30,39 @@ work in progress
             </td>
         </tr>
     </table>
+</div>
+<div align="center">
+    <br>
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    placeholder placeholder placeholder placeholder 
+    <br>
+    <br>
 </div>
