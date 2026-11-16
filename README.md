@@ -7,7 +7,7 @@
 <!-- main markdown -->
 work in progress
 <div align="center">
-    <img src="resources/images/green_effects.webp" />
+    <img width="1000" src="resources/images/green_effects.webp" />
     <br>
     <table align="right">
         <tr>
@@ -24,5 +24,5 @@ work in progress
         </tr>
     </table>
     <br>
-    <img src="resources/images/green_effects.webp" />
+    <img width="1000" src="resources/images/green_effects.webp" />
 </div>
