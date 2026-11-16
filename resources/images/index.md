@@ -10,9 +10,9 @@ faq:
 <br>
 "why is file <a href="https://libraryofruina.wiki.gg/wiki/Roland">thats that and this is this</a> uses extension .webp?" 
 <br>
-this is for the picture to render faster & to reduce file size. you still can change the file format (tip: manually by renaming the extension via files by google/file manager will ruin the image! recommended method to convert is via converting sites). although few animated pictures can still run even in static formats (example .jpeg)
+this is for the picture to render faster & to reduce file size andyou still can change the file format (tip: manually by renaming the extension via files by google/file manager will ruin the image! recommended method to convert is via converting sites) although few animated pictures can still run even in static formats (example jpeg)
 <br>
-few assets in the repository uses size above 10 mb which reachs more than the limit github can do. yowza!
+few assets in the repository uses size above 10 mb which reachs more than the limit github can do yowza!
 
 <br>
 
