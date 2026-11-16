@@ -22,9 +22,6 @@ some origin medias is too complex to explain and is sometimes vague
 ___
 
 used assets:
-- * ~
-
-<br>
-
-unused assets:
-- winnebago ~ https://www.oocities.org/drwurzel/
+- geep (.webp)
+- bonesy_gz (.webp)
+- parental_advisory (.webp) ~ https://commons.wikimedia.org/wiki/File:Parental_Advisory_label.svg
