@@ -33,6 +33,13 @@ work in progress
                 </a>
             </td>
         </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    <img width="380" src="resources/images/geep_banner.webp" />
+                </div>
+            </td>
+        </tr>
     </table>
 </div>
 <div align="center">
