@@ -13,6 +13,12 @@ this is for the picture to render faster & to reduce file size. you still can ch
 <br>
 few assets in the repository uses size above 10 mb which reachs more than the limit github can do. yowza!
 
+<br>
+
+"why are some files isnt in this credits assets?"
+<br>
+some origin medias is too complex to explain and is sometimes vague
+
 ___
 
 used assets:
