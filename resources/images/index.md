@@ -4,10 +4,19 @@ this readme... or index is for crediting and origin piece of media of every pict
 <br>
 answering few questions so you dont have to
 <br>
-"why is file thats that and this is this uses extension .webp?" this is for the picture to render faster & to reduce file size. you still can change the file format (tip: manually by renaming the extension via files by google/file manager will ruin the image! recommended method to convert is via converting sites)
+
+___
+
+"why is file thats that and this is this uses extension .webp?" 
+<br>
+this is for the picture to render faster & to reduce file size. you still can change the file format (tip: manually by renaming the extension via files by google/file manager will ruin the image! recommended method to convert is via converting sites). although few animated pictures can still run even in static formats (example .jpeg)
+
+___
 
 used assets:
 - * ~
+
 <br>
+
 unused assets:
 - winnebago ~ https://www.oocities.org/drwurzel/
