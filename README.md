@@ -8,7 +8,9 @@
 work in progress
 <div align="center">
     <kbd>
-        <img width="140" src="resources/images/parental_advisory.webp" align="left" />
+        <a href="https://en.wikipedia.org/wiki/Parental_Advisory">
+            <img width="140" src="resources/images/parental_advisory.webp" align="left" />
+        </a>
         　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
         <img width="90" src="resources/images/bonesy_gz.webp" align="right" />
     </kbd>
