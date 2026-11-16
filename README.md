@@ -43,5 +43,7 @@ work in progress
     </table>
 </div>
 <div align="center">
+    <br>
+    <br>
     ${\color{#4e7930}{\textsf{the text isnt rendering, no clue why is that}}}$
 </div>
