@@ -12,7 +12,7 @@ work in progress
     <table align="right">
         <tr>
             <td>
-                <img src="resources/images/green_effects.gif" />
+                <img width="400" src="resources/images/green_effects.gif" />
             </td>
         </tr>
         <tr>
