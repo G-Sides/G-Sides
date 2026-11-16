@@ -45,7 +45,7 @@ work in progress
 <div align="center">
     <br>
     <br>
-    ${\color{#547529}{\textsf{placeholder placeholder placeholder placeholder}}}
+    ${\color{#547529}{\textsf{placeholder placeholder placeholder placeholder}}}$
     <br>
     placeholder placeholder placeholder placeholder
     <br>
