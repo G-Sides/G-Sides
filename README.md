@@ -9,11 +9,11 @@ work in progress
 <div align="center">
     <kbd>
         <a href="https://en.wikipedia.org/wiki/Parental_Advisory">
-            <img width="140" src="resources/images/parental_advisory.webp" align="left" />
+            <img width="140" src="resources/images/parental_advisory.webp" title="Parental Advisory" align="left" />
         </a>
         　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
         <a href="https://en.wikipedia.org/wiki/Gorillaz">
-            <img width="90" src="resources/images/bonesy_gz.webp" align="right" />
+            <img width="90" src="resources/images/bonesy_gz.webp" title="Bonesy Gorillaz" align="right" />
         </a>
     </kbd>
 </div>
