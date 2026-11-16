@@ -4,7 +4,7 @@ this readme... or index is for crediting and origin piece of media of every pict
 
 eh excuse the pun 
 <div align="right">
-  bloody hell. <sub><sup>bad</sup></sub>, bad, <sub><sup>pun</sup></sub>...
+  bloody hell. <sub><sup>bad</sup></sub>, <a href="http://bad.co.uk">bad</a>, <sub><sup>pun</sup></sub>...
 </div>
 
 ___
