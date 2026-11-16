@@ -7,7 +7,7 @@
 <!-- main markdown -->
 work in progress
 <div align="center">
-    <img width="1000" src="resources/images/green_effects.webp" />
+    placeholder
     <br>
     <table align="right">
         <tr>
@@ -19,10 +19,10 @@ work in progress
         </tr>
         <tr>
             <td>
-                <img width="350" src="resources/images/geep.webp" align="right" />
+                <a href="https://en.wikipedia.org/wiki/Gorillaz_(album)">
+                    <img width="350" src="resources/images/geep.webp" align="right" />
+                </a>
             </td>
         </tr>
     </table>
-    <br>
-    <img width="1000" src="resources/images/green_effects.webp" />
 </div>
