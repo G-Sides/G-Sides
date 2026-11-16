@@ -45,8 +45,9 @@ work in progress
 <div align="center">
     <br>
     <br>
-    ${\color{#547529}{\textsf{welcome to uhhhhhhhhhhhh}}}$
-    ${\color{#547529}{\textsf{───────}}}$
+    ${\color{#4e7930}{\textsf{welcome to uhhhhhhhhhhhh}}}$
+    <br>
+    ${\color{#4e7930}{\textsf{───────}}}$
     <br>
     <br>
 </div>
