@@ -12,7 +12,9 @@ work in progress
             <img width="140" src="resources/images/parental_advisory.webp" align="left" />
         </a>
         　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-        <img width="90" src="resources/images/bonesy_gz.webp" align="right" />
+        <a href="https://en.wikipedia.org/wiki/Gorillaz">
+            <img width="90" src="resources/images/bonesy_gz.webp" align="right" />
+        </a>
     </kbd>
 </div>
 <div align="center">
