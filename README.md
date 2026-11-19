@@ -1,7 +1,4 @@
-An issue has been detected.
-<br> Due to GitHub's extremely strict policy, we cannot name our repository "Prescripts".
-<br> Why does this occur? This is because the username @Prescripts was previously used by someone.
-<br> We are hoping into able to fix this issue, somehow. Thanks.
+work in progress!!1
 
 <!--
 <br>
