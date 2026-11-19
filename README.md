@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="The Resources/HanaAssociationIcon.png" width="300" align="right" />
+  <img src="The Resources/HanaAssociationIcon.png" width="250" align="right" />
 </div>
 <br>
 <table>
